@@ -1,13 +1,14 @@
-.button {
+.flipped,
+.style {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.One {
+.flipped {
     color: white;
     background-color: black;
 }
 
-.Two {
+.style {
     background-color: yellow;
 }
