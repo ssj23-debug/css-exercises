@@ -2,3 +2,8 @@ p {
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#NumberTwo {
+    color: blue;
+    font-size: 36px;
+}
